@@ -18,7 +18,7 @@ But if you want to witness my journey into the warm embrace of madness, welcome!
 
 ## Structure
 
-- `src/main.rs`: Ground zero.
+- `src/main.rs`: DAH CODE
 - `Cargo.toml`: Where I pretend to know what dependencies are.
 - `Cargo.lock`: The cargo cult's sacred artifact.
 
